@@ -4,17 +4,17 @@
 }
 
 .hovstad {
-    color: blueviolet;
+    color: violet;
     font-family: italic;
     text-decoration: dashed;
 }
 
 .peter_stockmann {
-    color: chartreuse;
+    color: skyblue;
     font-style: italic;
 }
 
-.direction {
+.direction:hover {
     color: black;
     font-size: 13px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
