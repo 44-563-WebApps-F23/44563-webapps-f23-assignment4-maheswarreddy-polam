@@ -75,4 +75,7 @@ tr:nth-child(even) {
     background-color:burlywood;
   }
 
+  .navigation{
+    display: flex;
+  }
  
