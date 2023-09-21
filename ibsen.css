@@ -16,9 +16,16 @@
 
 .direction:hover {
     color: black;
+    width: 200px;
     font-size: 13px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     
+}
+
+.direction {
+    width: 100vw;
+    color: black;
+    background-color: chocolate;
 }
 
 .speech {
@@ -26,3 +33,29 @@
     font-size: 13px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    margin-bottom: 24px;
+}
+
+th, td {
+    border: 3px solid #10e71e;
+    padding: 15px;
+    text-align: center;
+    color:darkorchid;z
+}
+
+ 
+th {
+    background-color: #cae67e;  
+}
+
+tr:nth-child(even) {
+    background-color:burlywood;
+  }
+
+ 
