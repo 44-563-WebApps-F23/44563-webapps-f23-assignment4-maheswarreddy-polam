@@ -14,6 +14,23 @@
     font-style: italic;
 }
 
+.peter_stockmann:hover {
+    text-shadow: 2px 2px 4px #ff57ff;
+    border: 2px solid #FF5733;
+    cursor: pointer;
+}
+
+.hovstad:hover {
+    text-shadow:2px 2px 4px chartreuse;
+    border:2px solid rgb(128, 204, 240);
+    cursor: pointer;
+}
+
+.mrs_stockmann:hover {
+    text-shadow:2px 2px 4px fuchsia;
+    border:2px solid lawngreen;
+    cursor: pointer;
+}
 .direction:hover {
     color: black;
     width: 200px;
